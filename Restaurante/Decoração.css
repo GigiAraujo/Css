@@ -1,0 +1,27 @@
+
+ body{
+     background-color: #c2bfb3;
+ }
+ hr{
+     border-color: #454607;
+ }
+ .form{
+     text-align: center;
+     color: #3a2052;
+ }
+ .card{
+     color: #625405;
+     text-align: center;
+ }
+ hr{
+     border-color: #454607;
+ }
+ .form{
+     text-align: center;
+     color: #625405;
+ }
+ img{
+    width: 1500px;
+    height: 900px;
+    text-align: center;
+ }

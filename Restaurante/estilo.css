@@ -1,0 +1,168 @@
+h1 {
+   color: #625405;
+   text-align: center;
+}
+
+h3 {
+   color: #777f27;
+   text-align: center;
+}
+
+body {
+   background-color: #c2bfb3;
+}
+
+div {
+   text-align: center;
+}
+
+p {
+   text-align: center;
+   color: #000000;
+}
+
+hr {
+   border-color: #454607;
+}
+
+.estrela {
+   width: 100px;
+   text-align: center;
+}
+.avalm{
+   text-align: center;
+}
+.maria {
+   color: black;
+   text-align: center;
+}
+
+.bruno {
+   color: black;
+   text-align: center;
+}
+.paula{
+   text-align: center;
+}
+.avalb {
+   color: black;
+}
+
+.avalp {
+   color: black;
+}
+
+.cardapio {
+   color: #2e584a;
+}
+
+.div1 {
+   width: 100%;
+}
+
+.coluna {
+   float: left;
+   width: 420px;
+   margin-left: 10px;
+   margin-right: 5px;
+}
+
+.row::after {
+   text-align: center;
+   content: "";
+   clear: both;
+   display: table;
+}
+
+img {
+   width: 200px;
+}
+
+.row {
+   display: flex;
+   justify-content: center;
+}
+
+.mapa {
+   text-align: center;
+}
+
+img {
+   width: 300px;
+   align-items: center;
+}
+
+div {
+   /* display: inline-flex; */
+   text-align: center;
+}
+
+.caixa {
+   align-items: center;
+}
+
+.menu {
+   padding: 5px 50px;
+   background-color: #625405;
+   text-decoration: none;
+   border-radius: 15px;
+   text-align: center;
+   font-size: larger;
+   color: #fffff0;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sobre {
+   font-size: 20px;
+}
+
+.produtos {
+   font-size: 15px;
+}
+
+.maria{
+   display: inline-block;
+   border: 2px black solid;
+   border-radius: 15px;
+   background-color: #8d8559;
+   width: 310px;
+height: 290px;
+padding: 0;
+color: #fffff0;
+}
+
+.ava{
+   text-align: center;
+}
+
+.avalm{
+   color: #fffff0;
+}
+
+.sobreN {
+   position: relative;
+   text-align: center;
+   color: white;
+   height: 290px;
+
+}
+
+.texto {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   z-index: 1;
+}
+
+.rest{
+   height: 490px;
+   width: 1480px;
+}
+.text{
+   color: #fffff0;
+}
+
+.nos{
+   color: #e4d681;
+}
